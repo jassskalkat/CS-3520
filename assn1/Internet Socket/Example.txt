@@ -1,0 +1,188 @@
+Usage is
+make all
+cc socserv.c buffer.c -o socks
+cc soccli.c buffer.c -o sockc
+launch server
+execute client
+Server File Number = 4
+bind errno= 0, errcode= 0
+listen errno= 0, errcode= 0
+client trying to connect  again...
+Connection Established 3 0
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+Accepted Client with File Number =5
+receiving (SERVER)
+CS3520 Operating Systems
+Sending CS3520 Operating Systems
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: CS3520 Operating Systems
+
+receiving (SERVER)
+5
+Sending 5
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: 5
+
+receiving (SERVER)
+Student1 10 20 30 50 60
+Sending Student1 10 20 30 50 60
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: Student1 10 20 30 50 60
+
+receiving (SERVER)
+Student2 10 20 0 50 60
+Sending Student2 10 20 0 50 60
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: Student2 10 20 0 50 60
+
+receiving (SERVER)
+Student3 10 50 30 50 60
+Sending Student3 10 50 30 50 60
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: Student3 10 50 30 50 60
+
+receiving (SERVER)
+Student4 10 30 30 50 60
+Sending Student4 10 30 30 50 60
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: Student4 10 30 30 50 60
+
+receiving (SERVER)
+Student5 10 20 40 50 60
+Sending Student5 10 20 40 50 60
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: Student5 10 20 40 50 60
+
+receiving (SERVER)
+3
+Sending 3
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: 3
+
+receiving (SERVER)
+20 30 50
+Sending 20 30 50
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: 20 30 50
+
+receiving (SERVER)
+CS3610 Analysis and Design of Algorithms
+Sending CS3610 Analysis and Design of Algorithms
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: CS3610 Analysis and Design of Algorithms
+
+receiving (SERVER)
+5
+Sending 5
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: 5
+
+receiving (SERVER)
+Student1 100 20 30 50 60
+Sending Student1 100 20 30 50 60
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: Student1 100 20 30 50 60
+
+receiving (SERVER)
+Student2 10 20 0 50 60
+Sending Student2 10 20 0 50 60
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: Student2 10 20 0 50 60
+
+receiving (SERVER)
+Student3 10 50 30 50 60
+Sending Student3 10 50 30 50 60
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: Student3 10 50 30 50 60
+
+receiving (SERVER)
+Student4 10 30 30 50 60
+Sending Student4 10 30 30 50 60
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: Student4 10 30 30 50 60
+
+receiving (SERVER)
+Student5 90 80 70 50 60
+Sending Student5 90 80 70 50 60
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: Student5 90 80 70 50 60
+
+receiving (SERVER)
+3
+Sending 3
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: 3
+
+receiving (SERVER)
+30 30 40
+Sending 30 30 40
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: 30 30 40
+
+receiving (SERVER)
+stop
+Sending stop
+ to server (3)
+waiting for server...
+Waiting for server to send back data
+receiving (SERVER)
+Server sent the following results: CS3520 51 Student3 CS3610 63 Student5
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+MCS3320 Theory of Computing
+Sending MCS3320 Theory of Computing
+ to server (3)
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+I received from client: MCS3320 Theory of Computing
+
+Writing new course to file...
+Input written to file successfully
+receiving (SERVER)
+.
+Sending .
+ to server (3)
+waiting for server...
+Client will now terminate
+I received from client: .
+
+Writing new course to file...
+Input written to file successfully
+execution finished
+clean
+rm socks sockc

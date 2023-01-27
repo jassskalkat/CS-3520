@@ -1,0 +1,148 @@
+Usage is
+make all
+cc iserver.c buffer.c -o is
+cc iclient.c buffer.c -o ic
+##############################################################################################
+# For the order of the input it's the same as the professor's in the assignment instruction. #
+# Course Name                                                                                #
+# Number of Students                                                                         #
+# Student# ASN ASN ASN followed by MIDTERM followed by FINAL                                 #
+# Number of Assignments                                                                      #
+# The weight of Assignments Followed by Midterm Followed by Final                            #
+# PLEASE RESPECT THE FORMAT OTHERWISE THE PROGRAM WON'T WORK.                                #
+##############################################################################################
+launch server
+execute client
+server waiting
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+CS3520 Operating Systems
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+5
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student1 10 20 30 50 60
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student2 10 20 0 50 60
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student3 10 50 30 50 60
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student4 10 30 30 50 60
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student5 10 20 40 50 60
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+3
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+20 30 50
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+CS3610 Analysis and Design of Algorithms
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+5
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student1 100 20 30 50 60
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student2 10 20 0 50 60
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student3 10 50 30 50 60
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student4 10 30 30 50 60
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student5 90 80 70 50 60
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+3
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+30 30 40
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+CS2620 Comparative Programming languages
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+6
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student1 50 40 30 60 70 80
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student2 50 0 30 60 70 80
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student3 50 40 80 60 70 80
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student4 40 40 30 60 70 80
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student5 50 40 90 60 70 80
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+Student6 0 80 30 60 70 80
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+4
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+45 20 35
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+receiving (SERVER)
+stop
+waiting for server...
+receiving (SERVER)
+CS3520 51 Student3 CS3610 63 Student5 CS2620 62 Student5
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+MCS3320 Theory of Computing
+waiting for server...
+We need your input: (Type 'stop' for calculations | Type '.' to terminate the program)
+Writing to file...
+Input written to file successfully
+receiving (SERVER)
+.
+waiting for server...
+Writing to file...
+Input written to file successfully
+execution finished
+clean
+rm is ic

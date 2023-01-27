@@ -1,0 +1,90 @@
+CS3610 Analysis and Design of Algorithms
+Writing to client...
+Received from client: CS3610 Analysis and Design of Algorithms
+
+5
+Writing to client...
+Received from client: 5
+
+Student1 100 20 30 50 60
+Writing to client...
+Received from client: Student1 100 20 30 50 60
+
+Student2 10 20 0 50 60
+Writing to client...
+Received from client: Student2 10 20 0 50 60
+
+Student3 10 50 30 50 60
+Writing to client...
+Received from client: Student3 10 50 30 50 60
+
+Student4 10 30 30 50 60
+Writing to client...
+Received from client: Student4 10 30 30 50 60
+
+Student5 90 80 70 50 60
+Writing to client...
+Received from client: Student5 90 80 70 50 60
+
+3
+Writing to client...
+Received from client: 3
+
+30 30 40
+Writing to client...
+Received from client: 30 30 40
+
+CS2620 Comparative Programming Languages
+Writing to client...
+Received from client: CS2620 Comparative Programming Languages
+
+6
+Writing to client...
+Received from client: 6
+
+Student1 50 40 30 60 70 80
+Writing to client...
+Received from client: Student1 50 40 30 60 70 80
+
+Student2 50 0 30 60 70 80 
+Writing to client...
+Received from client: Student2 50 0 30 60 70 80
+
+Student3 50 40 80 60 70 80
+Writing to client...
+Received from client: Student3 50 40 80 60 70 80
+
+Student4 40 40 30 60 70 80
+Writing to client...
+Received from client: Student4 40 40 30 60 70 80
+
+Student5 50 40 90 60 70 80
+Writing to client...
+Received from client: Student5 50 40 90 60 70 80
+
+Student6 0 80 30 60 70 80
+Writing to client...
+Received from client: Student6 0 80 30 60 70 80
+
+4
+Writing to client...
+Received from client: 4
+
+45 20 35
+Writing to client...
+Received from client: 45 20 35
+
+.
+Writing to client...
+Received from client: .
+
+Input ended.
+Received data successfully
+Sending answer back to client...
+Data sent successfully
+I received from the server: CS3610 63 Student5 CS2620 62 Student5 
+Do you have any new courses to add?
+MCS3320 Theory of computing
+New course I received from user is MCS3320 Theory of computing
+
+Exiting program now.

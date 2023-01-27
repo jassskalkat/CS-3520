@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "make all"
+make all
+
+echo "I didn't include any running examples in the main function."
+echo ""
+echo "Launching Program now."
+./question1
+
+echo "Program terminated successfully."

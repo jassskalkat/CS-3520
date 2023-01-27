@@ -1,0 +1,4 @@
+Operating Systems mark 51 Student3 10 50 30 50 60 
+Analysis and Design of Algorithms mark 63 Student5 90 80 70 50 60 
+Comparative Programming languages mark 62 Student5 50 40 90 60 70 42 
+MCS3320 Theory of Computing

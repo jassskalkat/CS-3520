@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+echo "make all"
+make all
+echo "The code only works for grids of size 9x9!"
+
+echo "Launching the checker now for correct sudoku"
+./checker ./data9_correct
+
+echo "Launching the checker now for incorrect sudoku"
+./checker ./data9_incorrect
+
+echo "Program terminated"
+

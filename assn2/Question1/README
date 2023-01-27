@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "make all"
+make all
+
+echo "Launching the program now."
+./task1
+
+echo "Program terminated successfully."

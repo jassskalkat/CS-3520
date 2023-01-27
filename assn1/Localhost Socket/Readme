@@ -1,0 +1,21 @@
+#!/bin/bash
+
+echo "Usage is"
+echo "make all"
+make all
+echo "##############################################################################################"
+echo "# For the order of the input it's the same as the professor's in the assignment instruction. #"
+echo "# Course Name                                                                                #"
+echo "# Number of Students                                                                         #"
+echo "# Student# ASN ASN ASN followed by MIDTERM followed by FINAL                                 #"
+echo "# Number of Assignments                                                                      #"
+echo "# The weight of Assignments Followed by Midterm Followed by Final                            #"
+echo "# PLEASE RESPECT THE FORMAT OTHERWISE THE PROGRAM WON'T WORK.                                #"
+echo "##############################################################################################"
+echo "launch server"
+./is&
+echo "execute client"
+./ic
+echo "execution finished"
+echo clean
+make clean
